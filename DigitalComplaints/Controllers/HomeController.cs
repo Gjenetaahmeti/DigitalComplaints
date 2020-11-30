@@ -20,6 +20,7 @@ namespace DigitalComplaints.Controllers
 
         public IActionResult Index()
         {
+
             return View();
         }
 
